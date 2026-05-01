@@ -8,8 +8,8 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI.setupWithNavController
 import com.google.android.gms.ads.MobileAds
 import com.google.android.material.color.DynamicColors
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.ActivityMainBinding
+import com.xz.hma.R
+import com.xz.hma.databinding.ActivityMainBinding
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils
 import rikka.material.app.MaterialActivity
 

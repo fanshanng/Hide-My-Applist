@@ -4,8 +4,8 @@ import android.annotation.SuppressLint
 import android.widget.ImageView
 import android.widget.TextView
 import com.drakeet.about.*
-import com.tsng.hidemyapplist.BuildConfig
-import com.tsng.hidemyapplist.R
+import com.xz.hma.BuildConfig
+import com.xz.hma.R
 
 class AboutActivity : AbsAboutActivity() {
 
@@ -41,7 +41,7 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Line())
         items.add(Card("Telegram\nhttps://t.me/HideMyApplist"))
         items.add(Line())
-        items.add(Card("Play store\nhttps://play.google.com/store/apps/details?id=com.tsng.hidemyapplist"))
+        items.add(Card("Play store\nhttps://play.google.com/store/apps/details?id=com.xz.hma"))
 
         items.add(Category(getString(R.string.about_open_source)))
         items.add(License("MultiType", "drakeet", License.APACHE_2, "https://github.com/drakeet/MultiType"))
