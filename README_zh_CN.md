@@ -1,12 +1,11 @@
-# Hide My Applist
+# XHMA
 
-[![Stars](https://img.shields.io/github/stars/Dr-TSNG/Hide-My-Applist?label=Stars)](https://github.com/Dr-TSNG)
+[![Stars](https://img.shields.io/github/stars/fanshanng/Hide-My-Applist?label=Stars)](https://github.com/fanshanng/Hide-My-Applist)
 [![Crowdin](https://badges.crowdin.net/hide-my-applist/localized.svg)](https://crowdin.com/project/hide-my-applist)
-[![Build](https://img.shields.io/github/actions/workflow/status/Dr-TSNG/Hide-My-Applist/main.yml?branch=master&logo=github)](https://github.com/Dr-TSNG/Hide-My-Applist/actions)
-[![Release](https://img.shields.io/github/v/release/Dr-TSNG/Hide-My-Applist?label=Release)](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
-[![Download](https://img.shields.io/github/downloads/Dr-TSNG/Hide-My-Applist/total)](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
-[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/HideMyApplist)
-[![License](https://img.shields.io/github/license/Dr-TSNG/Hide-My-Applist?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
+[![Build](https://img.shields.io/github/actions/workflow/status/fanshanng/Hide-My-Applist/main.yml?branch=master&logo=github)](https://github.com/fanshanng/Hide-My-Applist/actions)
+[![Release](https://img.shields.io/github/v/release/fanshanng/Hide-My-Applist?label=Release)](https://github.com/fanshanng/Hide-My-Applist/releases/latest)
+[![Download](https://img.shields.io/github/downloads/fanshanng/Hide-My-Applist/total)](https://github.com/fanshanng/Hide-My-Applist/releases/latest)
+[![License](https://img.shields.io/github/license/fanshanng/Hide-My-Applist?label=License)](https://github.com/fanshanng/Hide-My-Applist)
 
 ![banner](banner.png)
 
@@ -21,7 +20,7 @@
 ## 版权声明
 版权所有 © 2025 HMA 开发者。保留所有权利。
 
-从版本 v3.4 开始，Hide My Applist 不再适用 AGPL-3.0 许可证。相反，某些权利将由所有者保留。
+从版本 v3.4 开始，XHMA 不再适用 AGPL-3.0 许可证。相反，某些权利将由所有者保留。
 
 以下条件现适用：
 
@@ -34,4 +33,4 @@
 4. **禁止声称继承**：在许可证变更之前创建的任何软件分支均不得声称是该项目的官方或非官方继承者。这包括但不限于使用项目的名称、品牌或声誉来暗示与原项目的关联。
 
 ## 更新日志
-[参考发布页面](https://github.com/Dr-TSNG/Hide-My-Applist/releases)  
+[参考发布页面](https://github.com/fanshanng/Hide-My-Applist/releases)  

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">XHMA</string>
     <string name="title_home">Головна</string>
     <string name="title_logs">Журнали</string>
     <string name="title_settings">Налаштування</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">Системна служба працює [%d]</string>
     <string name="home_xposed_service_off">Системна служба не працює</string>
     <string name="home_xposed_service_old">Модуль оновлено, потрібно перезавантажити</string>
-    <string name="home_xposed_filter_count">Hide My Applist відфільтрував %d запитів</string>
+    <string name="home_xposed_filter_count">XHMA відфільтрував %d запитів</string>
     <string name="home_manage">Керувати</string>
     <string name="home_detection_test">Перевірка на виявлення</string>
     <string name="home_download_test_app_title">Завантажити додаток для перевірки</string>
@@ -114,7 +114,7 @@
     <string name="settings_stop_system_service">Зупинити системну службу</string>
     <string name="settings_stop_system_service_summary">Потрібне перезавантаження, щоб перезапустити службу</string>
     <string name="settings_is_clean_env">Очистити також середовище виконання?</string>
-    <string name="settings_is_clean_env_summary">Видаліть кеш системної служби в /data/misc/hide_my_applist_*. Це означає, що вам потрібно один раз запустити програму модуля вручну після наступного перезавантаження, щоб увімкнути перехоплення, і кількість перехоплень також буде очищено.</string>
+    <string name="settings_is_clean_env_summary">Видаліть кеш системної служби в /data/misc/xhma_*. Це означає, що вам потрібно один раз запустити програму модуля вручну після наступного перезавантаження, щоб увімкнути перехоплення, і кількість перехоплень також буде очищено.</string>
     <string name="settings_force_clean_env">Примусово очистити середовище виконання (root)</string>
     <string name="settings_force_clean_env_summary">Лише якщо не вдається запустити системну службу, інакше вам слід натиснути вищезазначену опцію.</string>
     <string name="settings_force_clean_env_toast_successful">Середовище виконання очищено</string>

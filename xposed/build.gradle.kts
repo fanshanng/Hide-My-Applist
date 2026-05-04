@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-    namespace = "icu.nullptr.hidemyapplist.xposed"
+    namespace = "com.xz.xhma.xposed"
 
     buildFeatures {
         buildConfig = false
@@ -28,7 +28,7 @@ afterEvaluate {
         val variantLowered = variant.name.lowercase(Locale.ROOT)
 
         val outSrcDir = layout.buildDirectory.dir("generated/source/signInfo/${variantLowered}")
-        val outSrc = outSrcDir.get().file("icu/nullptr/hidemyapplist/Magic.java")
+        val outSrc = outSrcDir.get().file("com/xz/xhma/Magic.java")
         val signInfoTask = tasks.register("generate${variantCapped}SignInfo") {
             outputs.file(outSrc)
             doLast {
@@ -42,7 +42,7 @@ afterEvaluate {
                     sign?.keyAlias
                 )
                 PrintStream(outSrc.asFile).apply {
-                    println("package icu.nullptr.hidemyapplist;")
+                    println("package com.xz.xhma;")
                     println("public final class Magic {")
                     print("public static final byte[] magicNumbers = {")
                     val bytes = certificateInfo.certificate.encoded

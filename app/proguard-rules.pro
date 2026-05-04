@@ -1,5 +1,5 @@
 # Xposed
--keepclassmembers class icu.nullptr.hidemyapplist.MyApp {
+-keepclassmembers class com.xz.xhma.MyApp {
     boolean isHooked;
 }
 
@@ -9,10 +9,10 @@
     public static ** valueOf(java.lang.String);
 }
 
--keep class icu.nullptr.hidemyapplist.data.UpdateData { *; }
--keep class icu.nullptr.hidemyapplist.data.UpdateData$* { *; }
+-keep class com.xz.xhma.data.UpdateData { *; }
+-keep class com.xz.xhma.data.UpdateData$* { *; }
 
 -keep,allowoptimization class * extends androidx.preference.PreferenceFragmentCompat
--keepclassmembers class com.xz.hma.databinding.**  {
+-keepclassmembers class com.xz.xhma.databinding.**  {
     public <methods>;
 }

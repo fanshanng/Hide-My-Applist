@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HideMyApplist"
+rootProject.name = "XHMA"
 
 include(
     ":app",
