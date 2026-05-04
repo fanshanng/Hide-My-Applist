@@ -10,7 +10,7 @@
     <string name="title_app_select">アプリの選択</string>
     <string name="title_app_settings">アプリの設定</string>
     <string name="title_about">About</string>
-    <string name="do_not_dual">Do not install HMA to secondary user</string>
+    <string name="do_not_dual">Do not install XHMA to secondary user</string>
     <string name="show_crash_log">クラッシュログの表示</string>
     <string name="config_damaged">構成ファイルが破損しています。 アプリのデータを消去してください。</string>
     <string name="edit_list">リストの編集</string>

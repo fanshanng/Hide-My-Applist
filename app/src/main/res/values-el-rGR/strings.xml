@@ -10,7 +10,7 @@
     <string name="title_app_select">Επιλογή εφαρμογών</string>
     <string name="title_app_settings">Ρυθμίσεις εφαρμογής</string>
     <string name="title_about">Σχετικά</string>
-    <string name="do_not_dual">Μην εγκαταστήσεις το HMA στον δευτερεύων χρήστη</string>
+    <string name="do_not_dual">Μην εγκαταστήσεις το XHMA στον δευτερεύων χρήστη</string>
     <string name="show_crash_log">Show crash log</string>
     <string name="config_damaged">Το αρχείο ρυθμίσεων είναι κατεστραμμένο. Παρακαλώ καθαρίστε τα δεδομένα της εφαρμογής</string>
     <string name="edit_list">Επεξεργασία λίστας</string>

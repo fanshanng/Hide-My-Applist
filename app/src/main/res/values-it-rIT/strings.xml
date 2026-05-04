@@ -10,7 +10,7 @@
     <string name="title_app_select">Seleziona applicazioni</string>
     <string name="title_app_settings">Impostazioni app</string>
     <string name="title_about">A proposito</string>
-    <string name="do_not_dual">Non installare HMA per l\'utente secondario</string>
+    <string name="do_not_dual">Non installare XHMA per l\'utente secondario</string>
     <string name="show_crash_log">Mostra crash log</string>
     <string name="config_damaged">File di configurazione danneggiato. Per favore cancella i dati dell\'app</string>
     <string name="edit_list">Modifica lista</string>

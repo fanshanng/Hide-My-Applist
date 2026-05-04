@@ -10,7 +10,7 @@
     <string name="title_app_select">Выберите приложения</string>
     <string name="title_app_settings">Настройки приложения</string>
     <string name="title_about">О модуле</string>
-    <string name="do_not_dual">Не устанавливать HMA для второго пользователя</string>
+    <string name="do_not_dual">Не устанавливать XHMA для второго пользователя</string>
     <string name="show_crash_log">Показывать логи вылета</string>
     <string name="config_damaged">Файл настроек повреждён. Пожалуйста, очистите данные приложения</string>
     <string name="edit_list">Редактировать список</string>

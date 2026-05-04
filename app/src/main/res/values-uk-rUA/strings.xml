@@ -10,7 +10,7 @@
     <string name="title_app_select">Виберіть додатки</string>
     <string name="title_app_settings">Налаштування додатка</string>
     <string name="title_about">Про додаток</string>
-    <string name="do_not_dual">Не встановлюйте HMA для додаткового користувача</string>
+    <string name="do_not_dual">Не встановлюйте XHMA для додаткового користувача</string>
     <string name="show_crash_log">Показати журнал збоїв</string>
     <string name="config_damaged">Файл конфігурації пошкоджено. Очистіть дані додатку</string>
     <string name="edit_list">Редагувати список</string>

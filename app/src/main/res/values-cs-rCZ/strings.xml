@@ -10,7 +10,7 @@
     <string name="title_app_select">Vybrat aplikace</string>
     <string name="title_app_settings">Nastavení aplikace</string>
     <string name="title_about">O aplikaci</string>
-    <string name="do_not_dual">Neinstalujte HMA na jiném uživateli</string>
+    <string name="do_not_dual">Neinstalujte XHMA na jiném uživateli</string>
     <string name="show_crash_log">Zobrazit protokol o selhání</string>
     <string name="config_damaged">Poškozený konfigurační soubor. Vyčistěte prosím data aplikace</string>
     <string name="edit_list">Upravit seznam</string>

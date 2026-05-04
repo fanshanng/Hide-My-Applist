@@ -10,7 +10,7 @@ import java.io.File
 class HMAService(val pms: IPackageManager) : IHMAService.Stub() {
 
     companion object {
-        private const val TAG = "HMA-Service"
+        private const val TAG = "XHMA-Service"
         var instance: HMAService? = null
     }
 
@@ -46,7 +46,7 @@ class HMAService(val pms: IPackageManager) : IHMAService.Stub() {
         instance = this
         loadConfig()
         installHooks()
-        logI(TAG, "HMA service initialized")
+        logI(TAG, "XHMA service initialized")
     }
 
     private fun searchDataDir() {
